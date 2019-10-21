@@ -1,0 +1,11 @@
+C:\Users\Christian\source\repos\GrandCircus\Lab_2\Lab_2\bin\Debug\netcoreapp3.0\Lab_2.exe
+C:\Users\Christian\source\repos\GrandCircus\Lab_2\Lab_2\bin\Debug\netcoreapp3.0\Lab_2.deps.json
+C:\Users\Christian\source\repos\GrandCircus\Lab_2\Lab_2\bin\Debug\netcoreapp3.0\Lab_2.runtimeconfig.json
+C:\Users\Christian\source\repos\GrandCircus\Lab_2\Lab_2\bin\Debug\netcoreapp3.0\Lab_2.runtimeconfig.dev.json
+C:\Users\Christian\source\repos\GrandCircus\Lab_2\Lab_2\bin\Debug\netcoreapp3.0\Lab_2.dll
+C:\Users\Christian\source\repos\GrandCircus\Lab_2\Lab_2\bin\Debug\netcoreapp3.0\Lab_2.pdb
+C:\Users\Christian\source\repos\GrandCircus\Lab_2\Lab_2\obj\Debug\netcoreapp3.0\Lab_2.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\GrandCircus\Lab_2\Lab_2\obj\Debug\netcoreapp3.0\Lab_2.AssemblyInfoInputs.cache
+C:\Users\Christian\source\repos\GrandCircus\Lab_2\Lab_2\obj\Debug\netcoreapp3.0\Lab_2.AssemblyInfo.cs
+C:\Users\Christian\source\repos\GrandCircus\Lab_2\Lab_2\obj\Debug\netcoreapp3.0\Lab_2.dll
+C:\Users\Christian\source\repos\GrandCircus\Lab_2\Lab_2\obj\Debug\netcoreapp3.0\Lab_2.pdb
